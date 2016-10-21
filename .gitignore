@@ -1,0 +1,8 @@
+*/*.ipynb_checkpoints
+.ipynb_checkpoints
+*.ipynb
+.ipynb
+.cache/
+soccer_hack.egg-info
+*-checkpoint.ipynb
+*/__pycache__
